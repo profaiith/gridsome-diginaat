@@ -23,3 +23,5 @@ fields:
     time_format: ''
     export_format: YYYY-MM-DD
   default: now
+pages:
+- journal/lets-hope.md
