@@ -2,6 +2,9 @@
 label: Theme configuration
 hide_body: true
 fields:
+- type: boolean
+  name: dark_mode
+  label: Dark mode
 - type: text
   name: site_name
   label: Site name
@@ -27,8 +30,5 @@ fields:
   type: text
   hidden: false
   default: ''
-- type: boolean
-  name: dark_mode
-  label: Dark mode
 pages:
 - data/theme.json
