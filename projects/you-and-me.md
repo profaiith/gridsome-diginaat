@@ -2,7 +2,10 @@
 date: 2020-10-21
 thumbnail: "/uploads/demon-love.png"
 title: You and me.
-categories: []
+categories:
+- 3D Blender
+- Lost
+- Love
 project_bg_color: ''
 project_fg_color: ''
 
