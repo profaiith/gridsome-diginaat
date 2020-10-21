@@ -25,4 +25,3 @@ fields:
   default: now
 pages:
 - journal/nobody.md
-- journal/you-and-me.md
