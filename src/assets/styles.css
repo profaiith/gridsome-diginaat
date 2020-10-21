@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    text-align: center;
+    padding: 1em;
+    }
+
+#top-nav-logo {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+}
+
+hr {
+    display: flex;
+    margin-left: 3.5em;
+    margin-right: 3.5em;
+}
