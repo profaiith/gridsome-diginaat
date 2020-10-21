@@ -24,5 +24,4 @@ fields:
     export_format: YYYY-MM-DD
   default: now
 pages:
-- journal/nobody.md
 - journal/who-are-you.md
