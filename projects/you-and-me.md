@@ -1,5 +1,5 @@
 ---
-date: 2020-10-21
+date: '2020-10-21'
 thumbnail: "/uploads/demon-love.png"
 title: You and me
 categories:
@@ -7,7 +7,7 @@ categories:
 - Lost
 - Love
 project_bg_color: ''
-project_fg_color: "#FEDDDD"
+project_fg_color: "#000000"
 
 ---
 # You and me.
