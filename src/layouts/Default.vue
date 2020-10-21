@@ -1,28 +1,8 @@
 <template>
-  <div class="layout">
-    <header class="header">
-      <img src="https://diginaat.com/img/logo-diginaat-black.png" id="top-nav-logo">
-    </header>
-          <nav class="navbar navbar-expand-sm  navbar-light bg-white">
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-             <span class="navbar-toggler-icon"></span>
-            </button>
-          <div class="collapse navbar-collapse" id="navbarNav">
-         <ul class="navbar-nav mx-auto">
-           <li class="nav-item active">
-       <g-link class="nav__link" to="/about/">ABOUT</g-link>
-         </li>
-        <li class="nav-item">
-       <g-link class="nav__link" to="/">PHOTOGRAPHY</g-link>
-         </li>
-         <li class="nav-item">
-         <g-link class="nav__link" to="/">PROJECTS</g-link>
-         </li>
-   </ul>
- </div>
-</nav>
-<hr>
+  <div class="layout" :class="{ 'sticky-header': $route.path === '/' }">
+    <Header />
     <slot/>
+    <Footer />
   </div>
 </template>
 
