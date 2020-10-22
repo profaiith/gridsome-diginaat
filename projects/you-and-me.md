@@ -21,8 +21,8 @@ You met me when still was just a lost boy drowning in a sea of blood. You showed
 
 It felt like your mission was to save me! You did. But were there times that you felt loved or was it just time to wasted when we both were lost in drugs?
 
-even if I am extremely socially awkward. Farewell Stinky 
+even if I am extremely socially awkward. Farewell Stinky
 
 ![](/uploads/blood-kiss-denoise.png)
 
-#### Farewell Stinky
+## Farewell Stinky
