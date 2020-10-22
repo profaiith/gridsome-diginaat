@@ -25,4 +25,5 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/i-am-just-facking-lonely.html
 - projects/you-and-me.md
